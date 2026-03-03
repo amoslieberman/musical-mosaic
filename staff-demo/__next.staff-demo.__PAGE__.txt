@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[46513,["/musical-mosaic/_next/static/chunks/ba96d5b5fb1fc59d.js"],"ClientPageRoot"]
+3:I[64320,["/musical-mosaic/_next/static/chunks/f6732ba82698fadd.js","/musical-mosaic/_next/static/chunks/5d1830edd5894c8e.js"],"default"]
+6:I[85906,["/musical-mosaic/_next/static/chunks/ba96d5b5fb1fc59d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"WxET5eoMCyeG09voux7eM","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/musical-mosaic/_next/static/chunks/f6732ba82698fadd.js","async":true}],["$","script","script-1",{"src":"/musical-mosaic/_next/static/chunks/5d1830edd5894c8e.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
