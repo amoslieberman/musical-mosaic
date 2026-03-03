@@ -1,4 +1,0 @@
-1:"$Sreact.fragment"
-2:I[91921,["/musical-mosaic/_next/static/chunks/ba96d5b5fb1fc59d.js"],"default"]
-3:I[410,["/musical-mosaic/_next/static/chunks/ba96d5b5fb1fc59d.js"],"default"]
-0:{"buildId":"6fqXPuHeDp96nTqr4fybF","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
