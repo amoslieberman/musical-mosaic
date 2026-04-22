@@ -1,0 +1,2 @@
+:HL["/musical-mosaic/_next/static/chunks/6e22e2699f99763c.css","style"]
+0:{"buildId":"n2rJgJO8qFTfdegAp94mc","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"solfege-harmonic-minor","paramType":null,"paramKey":"solfege-harmonic-minor","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
