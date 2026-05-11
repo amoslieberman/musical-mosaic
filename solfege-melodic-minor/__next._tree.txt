@@ -1,2 +1,0 @@
-:HL["/_next/static/chunks/5685b6bb46f2ed09.css","style"]
-0:{"buildId":"rhg60cuF2rs2YgMpp5iXF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"solfege-melodic-minor","paramType":null,"paramKey":"solfege-melodic-minor","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
