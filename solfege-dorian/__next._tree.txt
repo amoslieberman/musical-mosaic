@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/437ff547d4c33da4.css","style"]
+0:{"buildId":"oP0UVa_o7cx-1pDk9LeBn","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"solfege-dorian","paramType":null,"paramKey":"solfege-dorian","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
